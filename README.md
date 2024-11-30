@@ -6,3 +6,5 @@ Author - Captain Kanak
 Add Images for Project
 <br>
 Add some Initial Files - index.html, style.css and main.js
+<br>
+Navbar Completed
