@@ -6,6 +6,7 @@
   --third: #088178;
   --four: #222222;
   --five: #465b52;
+  --six: #cce7d0;
 }
 
 * {
@@ -15,6 +16,12 @@
   scroll-behavior: smooth;
   font-family: "Spartan", sans-serif;
 }
+
+.sectionPadding {
+  padding: 40px 80px;
+}
+
+/* Header Start */
 
 #header {
   background-color: var(--first);
@@ -56,13 +63,13 @@
 
 #navbar li a:hover::after,
 #navbar li a.active::after {
-    content: "";
-    width: 30%;
-    height: 2px;
-    background-color: var(--third);
-    position: absolute;
-    bottom: -4px;
-    left: 20px;
+  content: "";
+  width: 30%;
+  height: 2px;
+  background-color: var(--third);
+  position: absolute;
+  bottom: -4px;
+  left: 20px;
 }
 
 #hero {
@@ -111,4 +118,63 @@
   font-size: 15px;
   font-weight: 700;
   cursor: pointer;
+}
+
+/* Feature Section Start */
+
+#feature {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#feature .feBox {
+  width: 180px;
+  padding: 25px 15px;
+  margin: 15px 0;
+  text-align: center;
+  border: 1px solid var(--six);
+  border-radius: 4px;
+  box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
+}
+
+#feature .feBox:hover {
+  box-shadow: 10px 10px 54px rgba(70, 62, 221, 0.1);
+}
+
+#feature .feBox img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#feature .feBox h6 {
+  display: inline-block;
+  padding: 9px 8px 6px 8px;
+  background-color: #fddde4;
+  color: var(--third);
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+#feature .feBox:nth-child(2) h6 {
+  background-color: #cdebbc;
+}
+
+#feature .feBox:nth-child(3) h6 {
+  background-color: #d1e8f2;
+}
+
+#feature .feBox:nth-child(4) h6 {
+  background-color: #cdd4f8;
+}
+
+#feature .feBox:nth-child(5) h6 {
+  background-color: #f6dbf6;
+}
+
+#feature .feBox:nth-child(6) h6 {
+  background-color: #fff2e5;
 }
