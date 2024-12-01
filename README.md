@@ -8,3 +8,5 @@ Add Images for Project
 Add some Initial Files - index.html, style.css and main.js
 <br>
 Navbar Completed
+<br>
+Hero Section Complete
