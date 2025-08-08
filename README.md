@@ -1,4 +1,4 @@
-# Project Title
+# Buy Your Dress Online
 Short one-liner: What this project does and who it's for.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://captain-kanak.github.io/e-commerce-website-1/)
