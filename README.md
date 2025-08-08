@@ -1,5 +1,5 @@
 # Buy Your Dress Online
-Short one-liner: What this project does and who it's for.
+Short one-liner: You can buy your dress from here
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://captain-kanak.github.io/e-commerce-website-1/)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](./LICENSE)
@@ -7,31 +7,30 @@ Short one-liner: What this project does and who it's for.
 ---
 
 ## 🔖 Description
-A concise project overview in 2–3 sentences:
-- What problem it solves
-- Who it's for
-- Short demo link: https://your-live-url.com
+- 
+- 
+- 
 
 ---
 
 ## 🧩 Technologies Used
-- **Frontend:** React / Next.js / Tailwind CSS  
+- **Frontend:** html / Tailwind CSS  
 - **Backend:** Node.js / Express  
 - **Database:** MongoDB  
-- **Hosting:** Vercel / Heroku / Netlify  
+- **Hosting:** github
 (Replace with the exact stack for your project)
 
 ---
 
 ## ✨ Core Features
-- Feature 1 — short explanation
-- Feature 2 — short explanation
-- Feature 3 — short explanation
+- Feature 1 — 
+- Feature 2 — 
+- Feature 3 — 
 
 ---
 
 ## 🖼 Screenshot
-![Homepage screenshot](./assets/screenshot.png)
+
 
 ---
 
