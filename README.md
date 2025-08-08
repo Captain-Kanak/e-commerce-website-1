@@ -2,7 +2,6 @@
 Short one-liner: You can buy your dress from here
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://captain-kanak.github.io/e-commerce-website-1/)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](./LICENSE)
 
 ---
 
